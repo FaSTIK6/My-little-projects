@@ -22,6 +22,3 @@ extern int costIndex;
 extern int buttonOneMax;
 extern bool shopBool;
 extern int income;
-
-void UI();
-void InitUIVariables();
