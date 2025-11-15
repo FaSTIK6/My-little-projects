@@ -1,0 +1,1 @@
+clear && g++ src/*.cpp -Iinclude -o bin/main -lraylib -lGL -lm -lpthread -ldl -lrt -lgmpxx -lgmp && cd bin/ && ./main && cd ..
