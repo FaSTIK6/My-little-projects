@@ -1,9 +1,24 @@
-In this repository I post my C++ projects. I am a beginner in programming, but I believe that one day I will become much better at C++.
+# My Little Projects
 
-System: Arch Linux.
-Library: Raylib.
+This repository contains my C++ projects.  
+I am a beginner in programming, but I am learning and improving every day! :)
 
-Game1:
-Tycoon Game — v1.0:
+I use **Arch Linux** and the **Raylib** library.
 
-This game is about clicking and upgrading. It includes a user interface, upgrades, and automatic progress saving when you exit.
+---
+
+## Games
+
+### Game1 v1.0
+A simple clicker game with upgrades.  
+Features:
+- User interface  
+- Upgrade system  
+- Progress saving when you exit
+
+---
+
+## About Me
+- Learning C++ and game development  
+- Experimenting with small projects  
+- Always trying to make things better
