@@ -16,7 +16,7 @@ A fun clicker game where you can upgrade and grow!
 - ⚡ Upgrade system  
 - 💾 Progress saving when you exit  
 
-** 1.0v:  ** I have basic functions made.
+**1.0v:** I have basic functions made.
 
 *More projects coming soon…* ✨
 
