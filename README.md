@@ -9,12 +9,14 @@ I use **Arch Linux** 🐧 and the **Raylib** library 🎨 for my games.
 
 ## 🕹️ Games
 
-### Game1 v1.0 – Clicker Tycoon
+### Game1 – Clicker Tycoon
 A fun clicker game where you can upgrade and grow!  
 **Features:**
 - 🎨 User interface  
 - ⚡ Upgrade system  
 - 💾 Progress saving when you exit  
+
+** 1.0v:  ** I have basic functions made.
 
 *More projects coming soon…* ✨
 
@@ -30,4 +32,3 @@ A fun clicker game where you can upgrade and grow!
 ## 📌 Notes
 - Feel free to check out my code and try the games!  
 - Suggestions and feedback are welcome! 💡
-
